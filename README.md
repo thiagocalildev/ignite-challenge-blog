@@ -37,7 +37,7 @@ Developer:
 4. Create a custom type repeatable named posts using the fields specified on the challenge
 5. Save and push to prismic your custom type posts
 6. Go back to your dashboard and continue on your project selecting the language
-7. Create, save and publish two or more projects
+7. Create, save and publish two or more posts
 
 ## References
 
